@@ -57,6 +57,8 @@ pyber_summary_df["Average Fare per Driver"] = pyber_summary_df["Average Fare per
 
 pyber_summary_df
 
+![Test Image](/Image/pyber_summary.png)
+
 ### Deliverable 2. Create a multiple line plot that shows the total weekly of the fares for each type of city.
 
 #### 1. Read the merged DataFrame
