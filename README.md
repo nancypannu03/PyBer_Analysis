@@ -96,12 +96,13 @@ resample_df.head(10)
 
 ![Test Image](/Image/pyber_resample.png)
 
+
 #### 9. Using the object-oriented interface method, plot the resample DataFrame using the df.plot() function. 
 ​
-# Import the style from Matplotlib.
+##### Import the style from Matplotlib.
 from matplotlib import style
 ​
-# Use the graph style fivethirtyeight.
+##### Use the graph style fivethirtyeight.
 style.use('fivethirtyeight')
 ​
 plot_fig = resample_df.plot(figsize = (15,5))
@@ -109,13 +110,13 @@ plot_fig = resample_df.plot(figsize = (15,5))
 plt.title("Total Fare by City Type")
 plt.ylabel("Fare ($USD)")
 ​
-#Remove x-axis label
+##### Remove x-axis label
 x_axis = plot_fig.axes.get_xaxis()
 x_label = x_axis.get_label()
 x_label.set_visible(False)
 ​
 ​
-# Legend formatting
+##### Legend formatting
 lgnd = plt.legend(loc="center", title="type")
 ​
 #save the image
@@ -125,6 +126,11 @@ plt.savefig("analysis/PyBer_fare_summary.png")
 plt.show()
 
 ![Test Image](/analysis/PyBer_fare_summary.png)
+
+### Conclusion :- 
+- The Summary DataFrame provides an overview of the rise-sharing facilities in three city types : Urban, Rural and Suburban. The multi line chart graph depicts that the fare($USD) for the Urban riders is more than rest of the city types(Rural and Suburban). 
+- All three city types experience highest fare in the mid of february and march respectively.
+- After the month of April the amount of fare decreases for Rural and Urban.
 
 
 
