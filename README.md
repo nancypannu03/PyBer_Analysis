@@ -6,7 +6,9 @@
 - Skills used - Python, Pandas library, Matplotlib library
 
 [City data CSV File](Resources/city_data.csv)
+
 [Ride data CSV File](Resources/ride_data.csv)
+
 
 [PyBer Challenge Code](PyBer_Challenge.ipynb)
 
