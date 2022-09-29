@@ -137,9 +137,9 @@ plt.show()
    
 ## Summary:
 -Three business recommendations to the CEO for addressing any disparities among the city types.
-  - We can expand the range of the data by providing additional factors such as riding distance(miles covered by each driver), population in order to                   analyze the data in a more precise manner.
-  - This Analysis is limited as this trend is just for the months of January, February, March and April of the year 2019. Therefore, we can expand this range of         the time(year) which will give a better explanation of having the highest average fare per driver in Rural cities despite of experiencing the lesser number of       the rides.
-  - Since the Urban cities have the maximum number of total rides but still the drivers receive less fare than the Rural and Suburban cities. This would further         discourage the drivers in the the Urban cities.
+   - We can expand the range of the data by providing additional factors such as riding distance(miles covered by each driver), population in order to                   analyze the data in a more precise manner.
+   - This Analysis is limited as this trend is just for the months of January, February, March and April of the year 2019. Therefore, we can expand this range of         the time(year) which will give a better explanation of having the highest average fare per driver in Rural cities despite of experiencing the lesser number of       the rides.
+   - Since the Urban cities have the maximum number of total rides but still the drivers receive less fare than the Rural and Suburban cities. This would further         discourage the drivers in the the Urban cities.
  
 
 
