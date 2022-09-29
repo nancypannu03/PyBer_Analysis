@@ -15,7 +15,6 @@ We will deal with two technical analyis outcomes:
 
 ## Results: 
 Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
-Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. 
 
 ### Deliverable 1: Get a Summary DataFrame
 ####  1. Get the total rides for each city type
@@ -129,7 +128,7 @@ plt.show()
 
 ### Conclusion :- 
 - The Summary DataFrame provides an overview of the rise-sharing facilities in three city types : Urban, Rural and Suburban. The multi line chart graph depicts that the fare($USD) for the Urban riders is more than rest of the city types(Rural and Suburban). 
-   - All three city types experience highest fare in the mid of february and march respectively.
+   - Urban city type has the maximum number of total rides(1,625) followed by            Suburban(625) and the Rural has the lowest number of the total rides.
    - After the month of April the amount of fare decreases for Rural and Urban.
    - All three city types started with different amount of fares :
    - Urban fares started from approximately $1600 and it increases mid of February and March
@@ -138,7 +137,9 @@ plt.show()
    
 ## Summary:
 -Three business recommendations to the CEO for addressing any disparities among the city types.
-  -
+  - We can expand the range of the data by providing additional factors such as riding distance(miles covered by each driver), population in order to                   analyze the data in a more precise manner.
+  - This Analysis is limited as this trend is just for the months of January, February, March and April of the year 2019. Therefore, we can expand this range of         the time(year) which will give a better explanation of having the highest average fare per driver in Rural cities despite of experiencing the lesser number of       the rides.
+  - Since the Urban cities have the maximum number of total rides but still the drivers receive less fare than the Rural and Suburban cities. This would further         discourage the drivers in the the Urban cities.
  
 
 
