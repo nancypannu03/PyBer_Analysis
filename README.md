@@ -12,6 +12,8 @@
 
 [PyBer Challenge Code](PyBer_Challenge.ipynb)
 
+[PyBer Fare Summary](analysis/PyBer_fare_summary)
+
 
 ### Purpose
 
