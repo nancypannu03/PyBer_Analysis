@@ -20,6 +20,7 @@ We will deal with two technical analyis outcomes:
  
  - A multiple-line chart of total fares for each city type - Finally, we will create multiple line chart by using the plot() function from the matplotlib library.
 
+ - By merging both csv files, we will create the graphical representation of the        total fares (USD) versus the months for each city type .
 
 ## Results: 
 Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
