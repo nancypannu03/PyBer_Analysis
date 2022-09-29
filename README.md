@@ -43,9 +43,6 @@ pyber_summary_df = pd.DataFrame({"Total Rides": total_rides,"Total Drivers" : to
 
 pyber_summary_df
 
-![Test Image](/Image/pyber_summary.png)
-
-
 ####  7. Cleaning up the DataFrame. Delete the index name
 
 pyber_summary_df.index.name = None
@@ -60,6 +57,7 @@ pyber_summary_df["Average Fare per Driver"] = pyber_summary_df["Average Fare per
 
 pyber_summary_df
 
+![Test Image](/Image/pyber_summary.png)
 
 ### Deliverable 2. Create a multiple line plot that shows the total weekly of the fares for each type of city.
 
@@ -96,6 +94,8 @@ loc_df.info()
 resample_df = loc_df.resample("W").sum()
 resample_df.head(10)
 
+![Test Image](/Image/pyber_resample.png)
+
 #### 9. Using the object-oriented interface method, plot the resample DataFrame using the df.plot() function. 
 ​
 # Import the style from Matplotlib.
@@ -123,7 +123,9 @@ lgnd = plt.legend(loc="center", title="type")
 plt.savefig("analysis/PyBer_fare_summary.png")
 ​
 plt.show()
-​
+
+![Test Image](/analysis/PyBer_fare_summary.png)
+
 
 
 ## Summary:
