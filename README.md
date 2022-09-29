@@ -43,6 +43,9 @@ pyber_summary_df = pd.DataFrame({"Total Rides": total_rides,"Total Drivers" : to
 
 pyber_summary_df
 
+![Test Image](/Image/pyber_summary.png)
+
+
 ####  7. Cleaning up the DataFrame. Delete the index name
 
 pyber_summary_df.index.name = None
