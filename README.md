@@ -131,8 +131,8 @@ plt.show()
   - Urban city type has the maximum number of total rides(1,625) followed by            Suburban(625) and the Rural has the lowest number of the total rides.
   - After the month of April the amount of fare decreases for Rural and Urban.
   - All three city types started with different amount of fares :
-      - Urban fares started from approximately $1600 and it increases mid of February and March
-      - Rural fares are the lowest are the starting from approx $250 and the fare amount keep on fluctuating with the time and experience the maximun fare value             in April.
+      - Urban fares started from approximately $1600 and it increases in mid of February and March
+      - Rural fares are the lowest, starting from approx $250 and the fare amount keep on fluctuating with the time and experience the maximun fare value                   in April.
       - Suburban fares are starting from approx $700 and fluctuates till the mid of February and March where it experiences the highest amount almost $1400 and             then later dropped in March and mid April.
    
 ## Summary:
