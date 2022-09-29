@@ -129,13 +129,17 @@ plt.show()
 
 ### Conclusion :- 
 - The Summary DataFrame provides an overview of the rise-sharing facilities in three city types : Urban, Rural and Suburban. The multi line chart graph depicts that the fare($USD) for the Urban riders is more than rest of the city types(Rural and Suburban). 
-- All three city types experience highest fare in the mid of february and march respectively.
-- After the month of April the amount of fare decreases for Rural and Urban.
-
-
-
+   - All three city types experience highest fare in the mid of february and march respectively.
+   - After the month of April the amount of fare decreases for Rural and Urban.
+   - All three city types started with different amount of fares :
+   - Urban fares started from approximately $1600 and it increases mid of February and March
+   - Rural fares are the lowest are the starting from approx $250 and the fare amount keep on fluctuating with the time and experience the maximun fare value            in April.
+   - Suburban fares are starting from approx $700 and fluctuates till the mid of February and March where it experiences the highest amount almost $1400 and              then later dropped in March and mid April.
+   
 ## Summary:
-Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+-Three business recommendations to the CEO for addressing any disparities among the city types.
+  -
+ 
 
 
 
