@@ -40,6 +40,7 @@ average_fare_driver
 
 ####  6. Create a PyBer summary DataFrame. 
 pyber_summary_df = pd.DataFrame({"Total Rides": total_rides,"Total Drivers" : total_drivers , "Total Fares" : total_fares,"Average Fare per Ride": average_fare_ride ,"Average Fare per Driver":average_fare_driver })
+
 pyber_summary_df
 
 ####  7. Cleaning up the DataFrame. Delete the index name
