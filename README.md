@@ -49,11 +49,11 @@ pyber_summary_df
 
 ####  8. Format the columns.
 pyber_summary_df["Total Fares"] = pyber_summary_df["Total Fares"].map('${:,.2f}'.format)
-​
+
 pyber_summary_df["Average Fare per Ride"] = pyber_summary_df["Average Fare per Ride"].map('${:,.2f}'.format)
-​
+
 pyber_summary_df["Average Fare per Driver"] = pyber_summary_df["Average Fare per Driver"].map('${:,.2f}'.format)
-​
+
 pyber_summary_df
 
 ### Deliverable 2. Create a multiple line plot that shows the total weekly of the fares for each type of city.
