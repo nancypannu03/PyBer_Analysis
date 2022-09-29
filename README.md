@@ -5,6 +5,8 @@
 - In this project, we will be assisting a ride-sharing app company in order to analyze all the ride share data from January to early May of 2019 and create a compelling visualization for the CEO. 
 - Skills used - Python, Pandas library, Matplotlib library
 
+[PyBer Challenge Code](PyBer_Challenge.ipynb)
+
 ### Purpose
 
 We will deal with two technical analyis outcomes:
